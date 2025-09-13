@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.tenor.com/Og0XNCa_vo8AAAAi/qoobee-hi.gif" width="25"/>
 
-I’m [**Arthur**](https://www.custord.net), a Computer Science student based in Norwich.
+I’m [**Arthur**](https://arthurstevens.dev/), a Computer Science student based in Norwich.
 
 I love finding issues, devising solutions, and delivering results. I am very eager to learn and hone new skills to extend my reach.
 
