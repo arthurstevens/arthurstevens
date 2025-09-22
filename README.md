@@ -12,7 +12,7 @@ Outside of coding and Figma, you’ll find me at the gym, out for a run, or catc
 
 - Learning C/C++
 - Reinforcing my DSA through Neetcode 150
-- Building an (🙄) local AI integrated finance tracker for a personal project
+- Building a (🙄) local AI integrated finance tracker for a personal project
 
 ---
 
