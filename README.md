@@ -10,8 +10,9 @@ Outside of coding and Figma, you’ll find me at the gym, out for a run, or catc
 
 #### 🌱 Currently
 
+- Learning C/C++
 - Reinforcing my DSA through Neetcode 150
-- Building personal projects to solve issues and sharpen my skillset
+- Building an (🙄) local AI integrated finance tracker for a personal project
 
 ---
 
