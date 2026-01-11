@@ -2,20 +2,21 @@
 
 I’m [**Arthur**](https://arthurstevens.dev/), a Computer Science student based in Norwich.
 
-I love finding issues, devising solutions, and delivering results. I am very eager to learn and hone new skills to extend my reach.
+I am very eager to learn and hone new skills to extend my reach. I most enjoy multidisciplinary systems engineering, excited by bringing together different skillsets and fields.
 
-Outside of coding and Figma, you’ll find me at the gym, out for a run, or catching up on my favourite shows. I'm also immersed in the wider world of tech and the fields it touches — I'm a huge conversationalist, so feel free to talk to me about it!
+My biggest hobbies are (very shockingly) tech beyond academia. My hobby *is* the field I study. My most recent enjoyments have been with FPGA development (understanding memory, clocks, and state machines at a circuit level) and reading up on the history of computing. Breaking my Linux environment too, apparently.
+
+Aside from that, I strength train, adventure, and am picking up more books (less midnight blue light <img src="https://media.tenor.com/I7__TM6dAwoAAAAi/emoji-shock.gif" width="30" />).
 
 ---
 
 #### 🌱 Currently
 
 - Learning C/C++
-- Reinforcing my DSA through Neetcode 150
-- Building a (🙄) local AI integrated finance tracker for a personal project
+- Neetcode 150 DSA
 
 ---
 
 #### ☕ Fun Fact
 
-- Immune to the caffeine buff - it just doesn't work on me :,)
+- Immune to the caffeine buff, but I love it just as much :,)
